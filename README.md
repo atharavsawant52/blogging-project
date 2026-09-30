@@ -82,6 +82,8 @@ blogging-project/
 ├── mvnw.cmd
 └── README.md
 
+```
+
 🏗️ Application Architecture
 The application follows a simple MVC architecture:
 User
