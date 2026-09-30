@@ -205,28 +205,7 @@ The application provides:
 - Bootstrap-based responsive design
 - Clean and simple user interface
 
-🔄 CRUD Flow
-                ┌─────────────────┐
-                │   Home Page     │
-                │      (/)        │
-                └────────┬────────┘
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-     Create Post      Edit Post      Delete Post
-          │              │              │
-          ▼              ▼              ▼
-       /new           /edit/{id}    /delete/{id}
-          │              │
-          ▼              ▼
-        /save          /update
-          │              │
-          └──────┬───────┘
-                 ▼
-          ┌──────────────┐
-          │    MySQL     │
-          │   Database   │
-          └──────────────┘
+
 
 📚 What I Learned
 This project helped me understand:
@@ -263,10 +242,10 @@ The project can be extended with:
 - Cloud database
 - Deployment to a cloud platform
 
-👨‍💻 Author
+👨‍💻 Author : 
 Atharav Sawant
 GitHub:
 https://github.com/atharavsawant52
 
-📄 License
+📄 License :
 This project is created for learning and portfolio purposes.
